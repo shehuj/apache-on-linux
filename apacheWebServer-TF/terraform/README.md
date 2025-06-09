@@ -16,6 +16,7 @@ file Tree
 ├── variables.tf
 └── outputs.tf
 
+> cd /apacheWebServer-TF/terraform
 > terraform init
 > terraform plan
 > terraform apply -auto-approve
